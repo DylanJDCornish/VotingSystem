@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Election>   
+    <Constituency name="Newcastle Upon-Tyne South">     
+        <Candidate party="Conservative">      
+            <Firstname>Jordan</Firstname>       
+            <Lastname>Fraser</Lastname>       
+            <Votes>106</Votes>     
+            </Candidate>     
+        <Candidate party="Green">       
+            <Firstname>Grant</Firstname>       
+            <Lastname>Hamilton</Lastname>       
+            <Votes>46</Votes>     
+        </Candidate>
+        <Candidate party="Labour">       
+            <Firstname>Adam</Firstname>       
+            <Lastname>Gardener</Lastname>       
+            <Votes>152</Votes>     
+        </Candidate>
+        <Candidate party="Ukip">       
+            <Firstname>Nick</Firstname>       
+            <Lastname>Richardson</Lastname>       
+            <Votes>12</Votes>     
+        </Candidate>
+        <Candidate party="Liberal Democrats">       
+            <Firstname>Karl</Firstname>       
+            <Lastname>McGuinness</Lastname>       
+            <Votes>88</Votes>     
+        </Candidate>
+    </Constituency>
+</Election>  

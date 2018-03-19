@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Election>   
+    <Constituency name="Newcastle Upon-Tyne North">     
+        <Candidate party="Conservative">      
+            <Firstname>David</Firstname>       
+            <Lastname>Skelton</Lastname>       
+            <Votes>80</Votes>     
+            </Candidate>     
+        <Candidate party="Green">       
+            <Firstname>Charlotte</Firstname>       
+            <Lastname>Brownhill</Lastname>       
+            <Votes>67</Votes>     
+        </Candidate>
+        <Candidate party="Labour">       
+            <Firstname>Lee</Firstname>       
+            <Lastname>Cranney</Lastname>       
+            <Votes>99</Votes>     
+        </Candidate>
+        <Candidate party="Ukip">       
+            <Firstname>Carly</Firstname>       
+            <Lastname>Thompson</Lastname>       
+            <Votes>87</Votes>     
+        </Candidate>
+        <Candidate party="Liberal Democrats">       
+            <Firstname>Gemma</Firstname>       
+            <Lastname>Elliot</Lastname>       
+            <Votes>82</Votes>     
+        </Candidate>
+    </Constituency>
+</Election>  

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Election>   
+    <Constituency name="Slough">     
+        <Candidate party="Conservative">      
+            <Firstname>Narika</Firstname>       
+            <Lastname>Mitchell</Lastname>       
+            <Votes>42</Votes>     
+            </Candidate>     
+        <Candidate party="Green">       
+            <Firstname>Katie</Firstname>       
+            <Lastname>Craig</Lastname>       
+            <Votes>39</Votes>     
+        </Candidate>
+        <Candidate party="Labour">       
+            <Firstname>Dylan</Firstname>       
+            <Lastname>Cornish</Lastname>       
+            <Votes>220</Votes>     
+        </Candidate>
+        <Candidate party="Ukip">       
+            <Firstname>Jack</Firstname>       
+            <Lastname>Barber</Lastname>       
+            <Votes>91</Votes>     
+        </Candidate>
+        <Candidate party="Liberal Democrats">       
+            <Firstname>Karrie</Firstname>       
+            <Lastname>White</Lastname>       
+            <Votes>32</Votes>     
+        </Candidate>
+    </Constituency>
+</Election>  

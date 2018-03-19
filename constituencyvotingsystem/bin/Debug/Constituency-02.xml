@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Election>   
+    <Constituency name="Watford">     
+        <Candidate party="Conservative">      
+            <Firstname>Cindy</Firstname>       
+            <Lastname>Nicoll</Lastname>       
+            <Votes>69</Votes>     
+            </Candidate>     
+        <Candidate party="Green">       
+            <Firstname>Rachel</Firstname>       
+            <Lastname>Donohoe</Lastname>       
+            <Votes>46</Votes>     
+        </Candidate>
+        <Candidate party="Labour">       
+            <Firstname>Orlind</Firstname>       
+            <Lastname>Zela</Lastname>       
+            <Votes>189</Votes>     
+        </Candidate>
+        <Candidate party="Ukip">       
+            <Firstname>Gavin</Firstname>       
+            <Lastname>Moore</Lastname>       
+            <Votes>101</Votes>     
+        </Candidate>
+        <Candidate party="Liberal Democrats">       
+            <Firstname>Dan</Firstname>       
+            <Lastname>Baird</Lastname>       
+            <Votes>60</Votes>     
+        </Candidate>
+    </Constituency>
+</Election>  
